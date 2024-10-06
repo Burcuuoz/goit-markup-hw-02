@@ -14,17 +14,17 @@ body {
   text-transform: uppercase;
 }
 
-.header .contact {
+.header .contact_contact {
   font-style: normal;
 }
 
-.contact .link-contact {
+.contact_contact .link-contact {
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #434455;
 }
-.contact .link-contact:hover,
-.contact .link-contact:focus {
+.contact_contact .link-contact:hover,
+.contact_contact .link-contact:focus {
   color: #434455;
 }
 .header .nav-logo .logo-span {
@@ -43,10 +43,10 @@ body {
   color: #404bbf;
 }
 
-.section-1_ {
+.section-1 {
   background-color: #2e2f42;
 }
-.section-1 .section1-title_ {
+.section-1 .section-1_title {
   line-height: 1.07;
   font-size: 56px;
   letter-spacing: 0.02em;
@@ -54,7 +54,7 @@ body {
   text-align: center;
 }
 
-.section1-button {
+.section-1_button {
   font-weight: 500;
   font-size: 16px;
   font-family: "Roboto", sans-serif;
@@ -65,25 +65,25 @@ body {
   letter-spacing: 0.04em;
 }
 
-.section1-button:hover,
-.section1-button:focus {
+.section-1_button:hover,
+.section-1_button:focus {
   background-color: #404bbf;
 }
 
-.section-1_ .section1-title_ {
+.section-1 .section-1_title {
   font-weight: 700;
   font-size: 56px;
   color: #ffffff;
 }
 
-.section-2 .section2-title {
+.section-2 .section-2_title {
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
   letter-spacing: 0.02em;
   color: #2e2f42;
 }
-.section-2 .section2-text_ {
+.section-2 .section-2_text {
   line-height: 1.5;
   letter-spacing: 0.02em;
 }
@@ -91,7 +91,7 @@ body {
 .section-3 {
   background-color: #f4f4fd;
 }
-.section-3 .team-1_ {
+.section-3 .team-1 {
   font-size: 36px;
   line-height: 1.11;
   text-align: center;
@@ -115,7 +115,7 @@ body {
   line-height: 1.5;
   letter-spacing: 0.02em;
 }
-.section-4 .section4-header {
+.section-4 .section-4_header {
   line-height: 1.11;
   font-size: 36px;
   text-align: center;
